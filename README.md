@@ -33,19 +33,19 @@
 ## Conclusion
 
 **Males from Life Sciences background & of age group of 26-35 having salary less than 5000 are most likely to leave after completing 1 year at company.**  
-```
--> Salary could be increased and travel plans could be made to engage employees with work & give them job satisfaction.
--> Hiring from Life Sciences should be done with more deliberation.
--> There should be less pressure on Sales team as these job roles are most affected.
-```
+
+**->** Salary could be increased and travel plans could be made to engage employees with work & give them job satisfaction.
+**->** Hiring from Life Sciences should be done with more deliberation.
+**->** There should be less pressure on Sales team as these job roles are most affected.
+
 
 ## Project Learnings 
-
+```
   1. Identified key factors to reduce attrition
   2. Improved the hiring process
   3. Improved Employee experience
   4. Made workforce more productive
   5. Gained Employee trust
+```
+![HR Analytics Dashboard](https://github.com/manishankarjha/HR-Analytics/blob/main/HR%20Analytics%20Dashboard%20pic.png)
 
-![abc](https://github.com/manishankarjha/HR-Analytics/blob/main/HR%20Analytics%20Dashboard%20pic.png)
-![HR Analytics Dashboard](https://github.com/manishankarjha/HR-Analytics/blob/main/HR%20Analytics%20Dashboard.png)
