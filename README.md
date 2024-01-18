@@ -47,5 +47,5 @@
   4. Made workforce more productive
   5. Gained Employee trust
 
-
+![abc](https://github.com/manishankarjha/HR-Analytics/blob/main/HR%20Analytics%20Dashboard%20pic.png)
 ![HR Analytics Dashboard](https://github.com/manishankarjha/HR-Analytics/blob/main/HR%20Analytics%20Dashboard.png)
