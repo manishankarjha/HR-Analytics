@@ -26,8 +26,7 @@
 - From 237 people who left, around 112 have rated less than or equal to 2 in Job Satisfaction survey rating.
 - 200 People collectively from job roles of ``Laboratory Technician, Sales Executive, Research Scientist and Sales Representative`` have left.
 
-**
-**
+#####
 
 ## Conclusion
 
