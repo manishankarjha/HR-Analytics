@@ -6,8 +6,8 @@
 
 - Performed ``Data Cleaning`` with the help of ***Power Query*** Editor.
 - Analysed HR data and found various insights to asssess the attrition and the possible causes behind it.
-- Identified trends and patterns by making ``Data Visualisation`` with the help of donut & pie charts, line charts and bar & column charts. <br>
-
+- Identified trends and patterns by making ``Data Visualisation`` with the help of donut & pie charts, line charts and bar & column charts.
+***
   
 ## Major Insights
 
