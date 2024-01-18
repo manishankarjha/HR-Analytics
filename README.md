@@ -1,10 +1,6 @@
 # HR-Analytics
 
-Employees attrition analysis in Power BI
-
-
-
-
+Employees attrition analysis in Power BI  
 ## Tasks 
 
 - Performed ``Data Cleaning`` with the help of **Power Query** Editor.
@@ -55,5 +51,4 @@ Employees attrition analysis in Power BI
 - Made workforce more productive
 - Gained Employee trust
 
-
-![HR Analytics Dashboard](https://github.com/manishankarjha/HR-Analytics/blob/main/HR%20Analytics%20Dashboard%20pic.pdf)
+![HR Analytics Report](https://github.com/manishankarjha/HR-Analytics/blob/main/HR%20Analytics%20Dashboard%20pic.pdf)
