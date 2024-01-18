@@ -17,7 +17,6 @@
 - Out of 1470 total employees, **237** have left the company till yet and this accounts to about **16% attrition rate**.
 - The average age of people working in our company is ``37 years`` and their average salary is approximately ``6,500``.
 - Employee Retention rate at company is around ``7 years`` on average.
----  
 
 #### Charts
 
@@ -31,14 +30,12 @@
 ***
 
 ## Conclusion
-___
+
 **Males from Life Sciences background & of age group of 26-35 having salary less than 5000 are most likely to leave after completing 1 year at company.**  
 
-```
 * Salary could be increased and travel plans could be made to engage employees with work & give them job satisfaction.
 * Hiring from Life Sciences should be done with more deliberation.
 * There should be less pressure on Sales team as these job roles are most affected.
-```
 
 ## Project Learnings 
 
