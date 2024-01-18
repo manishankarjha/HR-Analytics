@@ -1,13 +1,13 @@
 # HR-Analytics
 
 Employees attrition analysis in Power BI  <br/>
-
+```
 ## Tasks 
 
-- Performed ``Data Cleaning`` with the help of **Power Query** Editor.
+- Performed ``Data Cleaning`` with the help of ***Power Query*** Editor.
 - Analysed HR data and found various insights to asssess the attrition and the possible causes behind it.
-- ``Data Visualisation`` with the help of donut & pie charts, line charts and bar & column charts.  <br/>
-
+- ``Data Visualisation`` with the help of donut & pie charts, line charts and bar & column charts.  
+```
 ## Major Insights
 
 #### Key Performance Indicators (KPIs)
