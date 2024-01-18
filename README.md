@@ -7,6 +7,7 @@
 - Performed ``Data Cleaning`` with the help of ***Power Query*** Editor.
 - Analysed HR data and found various insights to asssess the attrition and the possible causes behind it.
 - Identified trends and patterns by making ``Data Visualisation`` with the help of donut & pie charts, line charts and bar & column charts.
+---
   
 ## Major Insights
 
@@ -26,15 +27,14 @@
 - From 237 people who left, around 112 have rated less than or equal to 2 in Job Satisfaction survey rating.
 - 200 People collectively from job roles of ``Laboratory Technician, Sales Executive, Research Scientist and Sales Representative`` have left.
 
-#####
 
 ## Conclusion
 
 **Males from Life Sciences background & of age group of 26-35 having salary less than 5000 are most likely to leave after completing 1 year at company.**  
 ```
-    * Salary could be increased and travel plans could be made to engage employees with work & give them job satisfaction.
-    * Hiring from Life Sciences should be done with more deliberation.
-    * There should be less pressure on Sales team as these job roles are most affected.
+-> Salary could be increased and travel plans could be made to engage employees with work & give them job satisfaction.
+-> Hiring from Life Sciences should be done with more deliberation.
+-> There should be less pressure on Sales team as these job roles are most affected.
 ```
 
 ## Project Learnings 
