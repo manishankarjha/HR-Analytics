@@ -6,7 +6,7 @@
 
 - Performed ``Data Cleaning`` with the help of ***Power Query*** Editor.
 - Analysed HR data and found various insights to asssess the attrition and the possible causes behind it.
-- Identified trends and patterns by making ``Data Visualisation`` with the help of donut & pie charts, line charts and bar & column charts.
+- Identified trends and patterns by making ``Data Visualisation`` with the help of donut & pie charts, line charts and bar & column charts. <br>
 
   
 ## Major Insights
@@ -25,7 +25,7 @@
 - Employees having **salary upto 5000** are the ones who left the most and their number is 163.
 - After completing ``1 year`` at company, 59 people have left. This **attrition number decreases as the years at company increases** but it sees a spike as the years at company reaches ``5 and 10 years``.
 - From 237 people who left, around 112 have rated less than or equal to 2 in Job Satisfaction survey rating.
-- 200 People collectively from job roles of ``Laboratory Technician, Sales Executive, Research Scientist and Sales Representative`` have left.
+- 200 People collectively from job roles of ``Laboratory Technician, Sales Executive, Research Scientist and Sales Representative`` have left. <br>
 
 
 ## Conclusion
