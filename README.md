@@ -1,12 +1,12 @@
 # HR-Analytics
 
-Employees attrition analysis in Power BI  <br/>
+``Employees attrition`` analysis in **Power BI**  
 
 ## Tasks 
 
 - Performed ``Data Cleaning`` with the help of ***Power Query*** Editor.
 - Analysed HR data and found various insights to asssess the attrition and the possible causes behind it.
-- ``Data Visualisation`` with the help of donut & pie charts, line charts and bar & column charts.
+- Identified trends and patterns by making ``Data Visualisation`` with the help of donut & pie charts, line charts and bar & column charts.
 
 
 ## Major Insights
@@ -31,18 +31,19 @@ Employees attrition analysis in Power BI  <br/>
 ## Conclusion
 
 **Males from Life Sciences background & of age group of 26-35 having salary less than 5000 are most likely to leave after completing 1 year at company.**
-
+```
 - Salary could be increased and travel plans could be made to engage employees with work & give them job satisfaction.
 - Hiring from Life Sciences should be done with more deliberation.
 - There should be less pressure on Sales team as these job roles are most affected.
-
+```
 
 ## Project Learnings 
-
-- Identified key factors to reduce attrition
-- Improved the hiring process
-- Improved Employee experience
-- Made workforce more productive
-- Gained Employee trust
+```
+1. Identified key factors to reduce attrition
+2. Improved the hiring process
+3. Improved Employee experience
+4. Made workforce more productive
+5. Gained Employee trust
+```
 
 ![HR Analytics Report](https://github.com/manishankarjha/HR-Analytics/blob/main/HR%20Analytics%20Dashboard%20pic.png)
