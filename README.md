@@ -34,9 +34,9 @@
 
 **Males from Life Sciences background & of age group of 26-35 having salary less than 5000 are most likely to leave after completing 1 year at company.**  
 
--> Salary could be increased and travel plans could be made to engage employees with work & give them job satisfaction. 
--> Hiring from Life Sciences should be done with more deliberation. 
--> There should be less pressure on Sales team as these job roles are most affected.
+- Salary could be increased and travel plans could be made to engage employees with work & give them job satisfaction. 
+- Hiring from Life Sciences should be done with more deliberation. 
+- There should be less pressure on Sales team as these job roles are most affected.
 
 ## Project Learnings 
 
